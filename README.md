@@ -8,7 +8,7 @@ Student in high school. I enjoy robotics and talking with friends. I enjoy sport
 
 **Course Goals**
 
-Learn how to understand and code basic programs in Python
+Learn how to understand code in Python. Be able to make basic programs in Python. Understand complex topics that may exist in Python and not Java.
 
 **A Python Program I made**
 
